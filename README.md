@@ -6,6 +6,6 @@
 >> ### **[ahmednasser1601@gmail.com](mailto:ahmednasser1601@gmail.com)**
 >>> #### <a href="#"><b>LinkedIn Post</b></a> 
 
-> <table align="center"><tr><td>Code: <a href="https://www.kaggle.com/code/ahmednasser1601/sign-language-classification"><b>Notebook File</b></a></td></tr><tr><td>Data: <a href="dataset.json"><b>Dataset</b></a></td></tr></table>
+> <table align="center"><tr><td>Code: <a href="https://www.kaggle.com/code/ahmednasser1601/sign-language-classification"><b>Notebook File</b></a></td></tr><tr><td>Data: <a href="https://www.kaggle.com/datasets/datamunge/sign-language-mnist"><b>Sign Language MNIST</b></a></td></tr></table>
 
 <img src="https://hits.sh/github.com/AhmedNasser1601/Sign Language Classification.svg?label=Visits&logo=python"/>
