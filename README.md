@@ -4,7 +4,7 @@
 
 > ## **Machine Learning Internship**
 >> ### **[ahmednasser1601@gmail.com](mailto:ahmednasser1601@gmail.com)**
->>> #### <a href="#"><b>LinkedIn Post</b></a> 
+>>> #### <a href="https://www.linkedin.com/posts/ahmednasser1601_machinelearning-syncinterns-activity-7122205068124143616-wc0U?utm_source=share&utm_medium=member_desktop"><b>LinkedIn Post</b></a> 
 
 > <table align="center"><tr><td>Code: <a href="https://www.kaggle.com/code/ahmednasser1601/sign-language-classification"><b>Notebook File</b></a></td></tr><tr><td>Data: <a href="https://www.kaggle.com/datasets/datamunge/sign-language-mnist"><b>Sign Language MNIST</b></a></td></tr></table>
 
